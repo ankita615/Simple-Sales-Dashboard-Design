@@ -1,0 +1,4 @@
+1. The West region recorded the highest total sales over the year.
+2. Technology category consistently performed best in terms of both sales and profit.
+3. Sales peaked in March and November, showing seasonal trends.
+4. Central region had moderate sales but low profits, indicating potential inefficiencies.
